@@ -1,0 +1,31 @@
+{
+  "name": "Batch159-MarkomApps-BE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Batch159/Batch159-MarkomApps-BE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Batch159/Batch159-MarkomApps-BE/issues"
+  },
+  "homepage": "https://gitlab.com/Batch159/Batch159-MarkomApps-BE#README",
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "jsonwebtoken": "^8.3.0",
+    "mongodb": "^3.1.3",
+    "nodemon": "^1.18.4",
+    "react-string-replace": "^0.4.1",
+    "redux-react-session": "^2.5.0",
+    "restify": "^7.2.1",
+    "restify-cors-middleware": "^1.1.1"
+  }
+}

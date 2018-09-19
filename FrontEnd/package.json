@@ -1,0 +1,30 @@
+{
+  "name": "Batch159-MarkomApps-FE",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "set PORT=3001 && react-scripts start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/Batch159/Batch159-MarkomApps-FE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Batch159/Batch159-MarkomApps-FE/issues"
+  },
+  "homepage": "https://gitlab.com/Batch159/Batch159-MarkomApps-FE#README",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jquery": "^3.3.1",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "^1.1.4",
+    "reactstrap": "^6.4.0"
+  }
+}

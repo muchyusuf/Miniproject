@@ -1,0 +1,18 @@
+{
+    "BASE_URL": "http://localhost:3000/api",
+    "ENDPOINTS": {
+        "LOGIN": "/auth/login",
+        "COMPANY": "/company",
+        "EMPLOYEE": "/employee",
+        "MENU": "/menu",
+        "PRODUCT": "/product",
+        "UNIT": "/unit",
+        "ROLE": "/role",
+        "USER": "/user",
+        "EVENT": "/event"
+    },
+    "LS": {
+        "USERDATA": "B159_USERDATA_KEY",
+        "TOKEN": "B159_TOKEN_KEY"
+    }
+}
